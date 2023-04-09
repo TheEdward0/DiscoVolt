@@ -4,6 +4,8 @@ If you like to change your Discord status as you like, this is the best program
 
 ### Discord Server : that's right there [Edward Legecy](https://discord.gg/hTP2DaMCnD) 👈
 
+### To use this program, it is better to use it on the replit site
+
 ---
 ### DO NOT GIVE YOUR TOKEN TO OTHERS!
 ####    !توکن خود را در اختیار کسی نگذارید
