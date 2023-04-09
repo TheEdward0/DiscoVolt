@@ -10,3 +10,6 @@ If you like to change your Discord status as you like, this is the best program
 ### Giving your token to someone else will give them the ability to log into your account without the password or 2FA.
 ####      با دادن توکن خود به شخص دیگری، آنها می توانند بدون رمز عبور یا تایید 2 مرحله ای وارد حساب شما شوند
 ---
+
+</br>
+
